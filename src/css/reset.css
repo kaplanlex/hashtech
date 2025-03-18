@@ -10,18 +10,19 @@ h3,
 h4,
 h5,
 h6,
-p {  
+p {
   margin: 0;
 }
-li{
+li {
   margin: 0;
   padding: 0;
 }
 p:last-child {
   margin-bottom: 0;
-}  
+}
 
-ul,ol {
+ul,
+ol {
   margin: 0;
   padding: 0;
   list-style: none;
@@ -47,7 +48,6 @@ img {
 body {
   font-family: 'Gilroy', sans-serif;
 }
-main{
+main {
   flex-grow: 1;
 }
-
