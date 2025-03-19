@@ -30,7 +30,12 @@
   font-weight: 900;
   line-height: normal;
 }
-
+.contact-btn:hover {
+  background-color: #70596f;
+}
+.contact-btn:focus {
+  background-color: #70596f;
+}
 .menu-btn {
   cursor: pointer;
   display: flex;
@@ -139,7 +144,12 @@
     font-size: 16px;
     white-space: nowrap;
   }
-
+  .contact-btn:hover {
+    background-color: #70596f;
+  }
+  .contact-btn:focus {
+    background-color: #70596f;
+  }
   .menu-btn {
     width: 39px;
     height: 39px;
@@ -250,6 +260,12 @@
     font-weight: 900;
     line-height: normal;
   }
+  .contact-btn:hover {
+    background-color: #f7f5ee;
+  }
+  .contact-btn:focus {
+    background-color: #f7f5ee;
+  }
 
   .menu-btn {
     display: none;
@@ -318,7 +334,12 @@
     font-weight: 900;
     line-height: normal;
   }
-
+  .contact-btn:hover {
+    background-color: #f7f5ee;
+  }
+  .contact-btn:focus {
+    background-color: #f7f5ee;
+  }
   .menu-btn {
     display: none;
   }
