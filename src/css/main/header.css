@@ -6,7 +6,7 @@
   padding-bottom: 0;
   padding-left: 21px;
   padding-right: 21px;
-  background: #080808;
+  background-color: #080808;
   width: 100%;
 }
 .logo {
@@ -129,7 +129,7 @@
   margin: auto 0;
   gap: 7px;
 }
-@media (min-width: 360px) {
+@media (min-width: 361px) {
   .header {
     padding-top: 29px;
     padding-left: 29px;
@@ -340,6 +340,7 @@
   .contact-btn:focus {
     background-color: #f7f5ee;
   }
+
   .menu-btn {
     display: none;
   }
