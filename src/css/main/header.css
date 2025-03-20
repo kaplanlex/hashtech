@@ -6,7 +6,7 @@
   padding-bottom: 0;
   padding-left: 21px;
   padding-right: 21px;
-  background: #080808;
+  background-color: #080808;
   width: 100%;
 }
 .logo {
@@ -30,12 +30,7 @@
   font-weight: 900;
   line-height: normal;
 }
-.contact-btn:hover {
-  background-color: #70596f;
-}
-.contact-btn:focus {
-  background-color: #70596f;
-}
+
 .menu-btn {
   cursor: pointer;
   display: flex;
@@ -129,7 +124,7 @@
   margin: auto 0;
   gap: 7px;
 }
-@media (min-width: 360px) {
+@media (min-width: 361px) {
   .header {
     padding-top: 29px;
     padding-left: 29px;
@@ -144,12 +139,7 @@
     font-size: 16px;
     white-space: nowrap;
   }
-  .contact-btn:hover {
-    background-color: #70596f;
-  }
-  .contact-btn:focus {
-    background-color: #70596f;
-  }
+
   .menu-btn {
     width: 39px;
     height: 39px;
@@ -260,12 +250,6 @@
     font-weight: 900;
     line-height: normal;
   }
-  .contact-btn:hover {
-    background-color: #f7f5ee;
-  }
-  .contact-btn:focus {
-    background-color: #f7f5ee;
-  }
 
   .menu-btn {
     display: none;
@@ -334,12 +318,7 @@
     font-weight: 900;
     line-height: normal;
   }
-  .contact-btn:hover {
-    background-color: #f7f5ee;
-  }
-  .contact-btn:focus {
-    background-color: #f7f5ee;
-  }
+
   .menu-btn {
     display: none;
   }
