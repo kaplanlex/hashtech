@@ -1,0 +1,76 @@
+.bild-kohd {
+  margin-top: 45px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10px 13px;
+}
+.general-title-bild-kohd {
+  color: #262626;
+  font-family: 'Roboto Flex';
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+.box-stack {
+  background-image: url('../../img/bild-kohd/build-kohd-stack-mobile-bg.png');
+  background-size: 100% 334px;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  min-height: 334px;
+  padding-right: 7px;
+  padding-left: 20px;
+  padding-top: 17px;
+  padding-bottom: 18px;
+  display: flex;
+  align-items: start;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.title-stack {
+  color: #252525;
+  font-family: 'Roboto Mono';
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 11px;
+}
+
+.stack-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.text-stack {
+  color: #585858;
+  font-family: 'Roboto Mono';
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 19px;
+  letter-spacing: -0.32px;
+}
+
+.title-text-stack {
+  color: #262626;
+  font-family: 'Roboto Mono';
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 19px; /* 172.727% */
+  letter-spacing: -0.32px;
+}
+.text-description-stack {
+  margin-top: 11px;
+  color: #262626;
+  font-family: 'Roboto Mono';
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 20px; /* 166.667% */
+  letter-spacing: -0.32px;
+}
