@@ -38,6 +38,10 @@
   font-weight: 500;
   line-height: normal;
 }
+.picture-we-bild {
+  width: 100%;
+  height: auto;
+}
 @media (min-width: 361px) {
   .we-build {
     height: 827px;
